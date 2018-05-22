@@ -1,0 +1,2 @@
+Findbugs needs .class or .jar files as arguments!
+The filename is case sensitive.

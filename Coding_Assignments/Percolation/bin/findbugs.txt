@@ -1,0 +1,2 @@
+Running findbugs on Percolation.class PercolationStats.class:
+M C FCBL_FIELD_COULD_BE_LOCAL FCBL: Class PercolationStats defines fields that are used only as locals  At PercolationStats.java:[line 17]
